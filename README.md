@@ -10,4 +10,4 @@
 
 # Навыки и технологии
 
-`Jira` Jira, 
+`Jira`, `Qase.io`, `SQL`, `Postman`, `Swagger`, `Trello`, `SoapUI`, `Miro`, `Checkvist`, `Git`
