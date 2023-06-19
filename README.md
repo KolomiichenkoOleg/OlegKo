@@ -40,7 +40,7 @@
 
 **Как выполнял:** 
 
-`1. Составил тест-план в Confluence с указанием видов и сроков тестирования;`
+`1. Составил тест-план с указанием видов и сроков тестирования в`[Confluence](https://olegkotest.atlassian.net/wiki/spaces/CP/pages/1015878/1-+2-#4.-%D0%9F%D0%BB%D0%B0%D0%BD-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F);
 
 `2. Провел декомпозицию продукта`[Miro](https://miro.com/app/board/uXjVPrG7UqY=/?share_link_id=138798434134);
 
