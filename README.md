@@ -59,7 +59,15 @@
 
 `2. Провел декомпозицию продукта`[Miro](https://miro.com/app/board/uXjVPrG7UqY=/?share_link_id=138798434134);
 
-`3. Подготовил чек-листы в Sitechko по функциональному тестированию, регрессиононному тестированию, провел тестирование требований продукта`[Sitechco](https://chlist.sitechco.ru/project/36881/checklist/1424812/details);
+`3. Подготовил чек-листы в Sitechko по: 
+
+- функциональному тестированию,
+
+- регрессиононному тестированию,
+  
+- тестирование требований продукта`
+
+[Sitechco](https://chlist.sitechco.ru/project/36881/checklist/1424812/details);
 
 `4. Составил тест-кейсы по приемочному и smoke тестированиям в` [qase.io](https://app.qase.io/project/CP);
 
