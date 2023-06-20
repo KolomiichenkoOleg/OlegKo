@@ -54,7 +54,7 @@
 
 - [Smoke тестирование](https://chlist.sitechco.ru/project/36881/checklist/1427102/details)
 
-- [Регрессионное тестирование]((https://chlist.sitechco.ru/project/36881/checklist/1427671/details)
+- [Регрессионное тестирование](https://chlist.sitechco.ru/project/36881/checklist/1427671/details)
 
 - [Тестирование API](https://app.qase.io/project/CP?suite=14)
 
