@@ -47,25 +47,26 @@
 `1. Составил тест-план с указанием видов и сроков тестирования в`[Confluence](https://olegkotest.atlassian.net/wiki/spaces/CP/pages/1015878/1-+2-#4.-%D0%9F%D0%BB%D0%B0%D0%BD-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
 `1.1 Были проведены следующие виды тестирования:`
-- Приемочное тестирование
 
-- Функциональное тестирование
+- [Приемочное тестирование](https://app.qase.io/public/report/b00a3e1b3e2662c1f78372c545e397a32355321e))
 
-- Smoke тестирование
+- [Функциональное тестирование](https://app.qase.io/project/CP?previewMode=side&suite=10)
 
-- Регрессионное тестирование
+- [Smoke тестирование](https://chlist.sitechco.ru/project/36881/checklist/1427102/details)
 
-- Тестирование API
+- [Регрессионное тестирование]((https://chlist.sitechco.ru/project/36881/checklist/1427671/details)
+
+- [Тестирование API](https://app.qase.io/project/CP?suite=14)
 
 `2. Провел декомпозицию продукта`[Miro](https://miro.com/app/board/uXjVPrG7UqY=/?share_link_id=138798434134);
 
 `3. Подготовил чек-листы в` [Sitechco](https://chlist.sitechco.ru/project/36881/checklist/1424812/details) по: 
 
-`- функциональному тестированию,`
+- функциональному тестированию,
 
-`- регрессиононному тестированию,`
+- регрессиононному тестированию,
   
-`- тестирование требований продукта`
+- тестированию требований продукта
 
 `4. Составил тест-кейсы по приемочному и smoke тестированиям в` [qase.io](https://app.qase.io/project/CP);
 
