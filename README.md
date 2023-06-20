@@ -48,7 +48,7 @@
 
 `1.1 Были проведены следующие виды тестирования:`
 
-- [Приемочное тестирование](https://app.qase.io/public/report/b00a3e1b3e2662c1f78372c545e397a32355321e))
+- [Приемочное тестирование](https://app.qase.io/public/report/b00a3e1b3e2662c1f78372c545e397a32355321e)
 
 - [Функциональное тестирование](https://app.qase.io/project/CP?previewMode=side&suite=10)
 
