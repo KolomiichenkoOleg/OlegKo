@@ -10,7 +10,7 @@
 
 ### Навыки и технологии
 
-`Jira`, `Qase.io`, `SQL`, `Postman`, `Swagger`, `Trello`, `SoapUI`, `Miro`, `Checkvist`, `Git`
+`Jira` `Qase.io` `SQL` `Postman` `Swagger` `Trello` `SoapUI` `Miro` `Checkvist` `Git`
 
 ### Знание иностранных языков
 
